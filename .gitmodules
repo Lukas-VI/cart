@@ -1,8 +1,8 @@
 [submodule "hikvision_ros2"]
-	path = hikvision_ros2
+	path = modules/hikvision_ros2
 	url = https://github.com/Lukas-VI/hikvision_ros2.git
 	branch = main
 [submodule "hoverboard-firmware-FOC"]
-	path = hoverboard-firmware-FOC
+	path = modules/hoverboard-firmware-FOC
 	url = https://github.com/Lukas-VI/hoverboard-firmware-FOC.git
 	branch = main
