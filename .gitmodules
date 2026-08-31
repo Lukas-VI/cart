@@ -6,3 +6,7 @@
 	path = modules/hoverboard-firmware-FOC
 	url = https://github.com/Lukas-VI/hoverboard-firmware-FOC.git
 	branch = main
+[submodule "hoverboard_ros2_control"]
+	path = modules/hoverboard_ros2_control
+	url = https://github.com/Lukas-VI/hoverboard_ros2_control.git
+	branch = main
